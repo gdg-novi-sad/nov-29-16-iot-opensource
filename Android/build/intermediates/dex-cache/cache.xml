@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/misavic/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.1.0/89d827ffa47c241f2627421ef1d6c7a8c207a341/org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.1.0_568706bf9cc4bf33f99ec9e0261e31dff7f1a390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha8_f39ce3954fa8f65af5d6faac7099b7b1ceeb516d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e89f895a5b768ff33b2ce65dea33ccd9342a92fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e42acf8789e406e707bd68c2019cdc5daff5cc5">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2ca3bcfb29169fc83dfb3bf2734aadaab328118f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6995f6037e42acb83aa50361af06998044f22ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f845fbb7c99d8d6a98f61c06c1e195efceb0eff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha8_8c70a7f801f2fa67709bf6924da9de917f228345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7c4724d9e7823f0c0464ff7b1e2f6313c76aa770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_21217dfb07d183f1b7fd87b773f5bdf45cdfbc53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a456b30fb42acdd67728b887aa6703c30970602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c7570979b45576aba5f29991d7eb92c339a0a3ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_9a26eb2ff9911126028c07ca103d4c27f09d9cb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5857f8585f98c1400dcdbd4ecf64e8da4cf42f7f">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8ecfb7ad8218768ac4dd2a934a108280daeca589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.1.0/1945d9504415955d865ac805f60bf85366aeaffb/org.eclipse.paho.android.service-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1945d9504415955d865ac805f60bf85366aeaffb">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.android.service-1.1.0_1fb673331407d5a2a124b1d30fc03bb10d256673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_312075ecbc60ff235164b6c8c863fd6f5c6f5383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_02d6b6637f3d558a79beec4157977b96ae3c9ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b38e57c4fd2824d03e29dec19670c78ee2ec71ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1cb2c5c1e889963b43d0b7e5f28de7b823c83391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_21ac39ee36d6c15a8ae98347955e918677bfb51d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_fa7b7cf65bb24640be6ec0dce223b0bc3a342536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/misavic/Downloads/paho.mqtt.android-master/SmartCityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_48b34e40bf06664284b273e96a072214c67bbf4c/classes.dex" />
+    </item>
+
+</items>

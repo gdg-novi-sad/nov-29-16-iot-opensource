@@ -1,0 +1,27 @@
+SerialPort.o: src/SerialPort.cpp include/Poco/Serial/SerialPort.h \
+ include/Poco/Serial/Serial.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Poco.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Foundation.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Config.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Platform.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Platform_POSIX.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Alignment.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Bugcheck.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Types.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Logger.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Channel.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Configurable.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Mutex.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Exception.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/ScopedLock.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Mutex_POSIX.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/RefCountedObject.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/AtomicCounter.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Message.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Timestamp.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Format.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Any.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/MetaProgramming.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Timespan.h \
+ /home/misavic/workspace/Execom_IoT_Platform/lib/macchina.io/platform/Foundation/include/Poco/Buffer.h \
+ include/Poco/Serial/SerialPort_POSIX.h src/SerialPort_POSIX.cpp

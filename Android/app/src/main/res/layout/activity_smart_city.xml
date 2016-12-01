@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_smart_city"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="eu.execom.misavic.smartcitydemo.SmartCity"
+    android:background="@drawable/execitymidcleannocloud">
+
+
+    <TextView
+        android:text="Air Quality:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/QualityTitle"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif"
+        android:textColor="@android:color/black"
+
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:text="ND"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TemperatureValue"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignTop="@+id/TemperatureTitle"
+        android:layout_toEndOf="@+id/TemperatureTitle"
+        android:layout_marginStart="19dp" />
+
+    <TextView
+        android:text="ND"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/PressureValue"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignBaseline="@+id/PressureTitle"
+        android:layout_alignBottom="@+id/PressureTitle"
+        android:layout_alignStart="@+id/TemperatureValue" />
+
+    <TextView
+        android:text="ND"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/QualityValue"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/TemperatureValue" />
+
+    <TextView
+        android:text="ND"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/HumidityValue"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignTop="@+id/HumidityTitle"
+        android:layout_alignStart="@+id/PressureValue" />
+
+    <TextView
+        android:text="Temperature:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:id="@+id/TemperatureTitle"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/QualityValue"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Pressure:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/PressureTitle"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="9dp"
+        android:layout_below="@+id/TemperatureValue"
+        android:layout_alignEnd="@+id/HumidityTitle" />
+
+    <TextView
+        android:text="Humidity:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/HumidityTitle"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/PressureValue"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="12dp" />
+</RelativeLayout>
