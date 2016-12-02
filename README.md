@@ -1,16 +1,16 @@
-Meetup title: IoT and open-source in commercial solutions 
-Date: 29.11.2016.
-Presentation:
-https://drive.google.com/open?id=1bmSv2XgTnSY9rWnUyZLAMAFsHmOHjWUqJLEd1rTgyw0
+## Meetup info:
+        Meetup title: IoT and open-source in commercial solutions 
+        Date: 29.11.2016.
+        Presentation:
+        https://drive.google.com/open?id=1bmSv2XgTnSY9rWnUyZLAMAFsHmOHjWUqJLEd1rTgyw0
 
 /*Readme under constructions*/
 
-WolkSense cloud:
-   
-	https://wolksense.com/
-	There you can register to WolkSense and find all the relevant information
+## WolkSense cloud:
+        https://wolksense.com/
+        There you can register to WolkSense and find all the relevant information
 
-Build project:
+## Build Rpi project:
 
     Install dependencies:
 	    sudo apt-get update
@@ -48,18 +48,18 @@ Build project:
            ./configure
         Navigate to Rpi/build . Build the project with use of make command
 
-
-    Runing IotClient And LoRa module:
-        Navigate to Rpi/out
-        Configuration folder holds ssl certificate for IoT client
-        bin folder holds IoT client adn LoRa module executable
-        include folder holds headers from libraies that IoT client uses
-        lib folder holds libraries that IoT client uses
-        First you register device that you want to connect to wolksense:
-            - run IoTclient with following command arguments: ./IoTclient device_name wolksense_username wolksense_password
-	Go to Rpi/IoTclient/core/src/Ipc.cpp and edit DEV_SERIAL and DEV_PASSWORD with informations from sensor registration
-        Go to bin folder and start IoT client (./IoTclient)
-	Got to bi nfolder and start LoRa module (./LoRa)
+## Run Rpi part:
+        Runing IotClient And LoRa module:
+                Navigate to Rpi/out
+                Configuration folder holds ssl certificate for IoT client
+                bin folder holds IoT client adn LoRa module executable
+                include folder holds headers from libraies that IoT client uses
+                lib folder holds libraries that IoT client uses
+                First you register device that you want to connect to wolksense:
+                - run IoTclient with following command arguments: ./IoTclient device_name wolksense_username wolksense_password
+                Go to Rpi/IoTclient/core/src/Ipc.cpp and edit DEV_SERIAL and DEV_PASSWORD with informations from sensor registration
+                Go to bin folder and start IoT client (./IoTclient)
+                Go to bin folder and start LoRa module (./LoRa)
 
 
 
