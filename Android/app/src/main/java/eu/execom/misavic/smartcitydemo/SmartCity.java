@@ -27,16 +27,12 @@ public class SmartCity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_smart_city);
-
-
-
-        //System.out.println("Mark 1 :) and date is " + data );
         SecureRandom random = new SecureRandom();
         String rndCliId = new BigInteger(130, random).toString(32);
         System.out.println("ClientID is " + rndCliId);
-        //mqttAndroidClient = new MqttAndroidClient(this.getApplicationContext(), "tcp://10.0.5.193:1883", new BigInteger(130, random).toString(32));
+
         mqttAndroidClient = new MqttAndroidClient(SmartCity.this, "tcp://10.0.5.93:1883", rndCliId);
-        //mqttAndroidClient = new MqttAndroidClient(this.getApplicationContext(), "tcp://10.0.2.157:1883", "datas");
+
         mqttAndroidClient.setCallback(new MqttCallback() {
             @Override
             public void connectionLost(Throwable cause) {
@@ -76,14 +72,11 @@ public class SmartCity extends AppCompatActivity {
             }
         });
 
-        //connectMQTT();
 
         try {
             MqttConnectOptions options = new MqttConnectOptions();
             options.setCleanSession(true);
             options.setAutomaticReconnect(true);
-            //options.setKeepAliveInterval(5);
-            //options.setConnectionTimeout(5);
 
             final IMqttActionListener listener = new IMqttActionListener() {
                 @Override
@@ -93,12 +86,11 @@ public class SmartCity extends AppCompatActivity {
                             .show();
                     System.out.println("Connection Success!");
                     try {
-                        //System.out.println("Subscribing to sensors/#");
+
                         String topic = "ipc/LoRa";
                         mqttAndroidClient.subscribe(topic, 1);
                         System.out.println("Subscribed to " + topic);
-                        //System.out.println("Publishing message..");
-                        //mqttAndroidClient.publish("/test", new MqttMessage("Hello world!".getBytes()));
+                       
                     } catch (MqttException ex) {
 
                     }
