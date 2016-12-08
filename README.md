@@ -2,7 +2,7 @@
         Meetup title: IoT and open-source in commercial solutions 
         Date: 29.11.2016.
         Presentation:
-        https://drive.google.com/open?id=1bmSv2XgTnSY9rWnUyZLAMAFsHmOHjWUqJLEd1rTgyw0
+        https://drive.google.com/open?id=0B9dHqnT9YLf3aEhlaF8xVTFodVU
 	
 ## Introduction:
 	Smart City showcase is based on LoRa protocol, but you should not limit yourself on just running the sample code.
